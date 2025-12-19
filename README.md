@@ -1,10 +1,37 @@
-# Research
-focused on a scientific career
+<h1 align="center">📘 Portfólio — Linguagem C</h1>
 
-1# I will try to post files as much as possible using latex
-2# This repository will only be linked to research projects that i consider to be individual
-3# Files with python lenguage (main.py) and add c99
-4# Physical projects will be presented linked to a file of parameters and protocols
-5# All these projects are of intelectual content, so contact me for tips or questions
+<p align="center">
+Coleção de programas desenvolvidos em linguagem C, focados em fundamentos,
+estruturas de dados e algoritmos clássicos.
+</p>
 
-.: Shibuya_0
+<br>
+
+<div align="center">
+
+  <div>
+    <h3>📄 CalcProfssional.c</h3>
+    <p>
+      Construção de uma calculadora com funções básicas, faz parte de pequenos projetos propostos em blogs para treino.
+    </p>
+    <img src="https://img.shields.io/badge/Linguagem-C-A8B9CC?style=flat-square&logo=c&logoColor=white">
+    <br><br>
+    <a href<a href="#">🔗 Acessar arquivo</a>
+  </div>
+
+  <br><br>
+
+  <div>
+    <h3>📄 AgendaFuncional.c</h3>
+    <p>
+      Atividade proposta na matéria de estrutura de dados, onde deve-se criar um agenda seguindo certos parâmetros 
+    </p>
+    <img src="https://img.shields.io/badge/Linguagem-C-A8B9CC?style=flat-square&logo=c&logoColor=white">
+    <br><br>
+    <a href="#">🔗 Acessar arquivo</a>
+  </div>
+
+  <br><br>
+
+</div>
+
