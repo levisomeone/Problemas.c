@@ -2,7 +2,7 @@
 
 <p align="center">
 Coleção de programas desenvolvidos em linguagem C, focados em fundamentos,
-estruturas de dados e algoritmos clássicos.
+estruturas de dados e algoritmos clássicos; Apenas focado em diversão e treino.
 </p>
 
 <br>
