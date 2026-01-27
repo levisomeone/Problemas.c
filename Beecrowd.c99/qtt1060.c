@@ -21,7 +21,7 @@ Imprima uma mensagem dizendo quantos valores positivos foram lidos.
 -1 -2 -3 -4 -5 -6   --->   0 valores positivos
 1 2 3 4 5 6         --->   6 valores positivos
 
-// source code || 1930 c99 ||  https://resources.beecrowd.com/repository/UOJ_1060.html
+// source code || 1060 c99 ||  https://resources.beecrowd.com/repository/UOJ_1060.html
 
 #include <stdio.h>
 
